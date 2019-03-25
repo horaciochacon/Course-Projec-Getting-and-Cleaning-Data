@@ -68,7 +68,7 @@ colnames(wearableMeasurements) <- names ; rm(names)
 
 wearableTidy <- wearableMeasurements %>% 
     gather(key = "measurements", value = "value", -(id:activity)) %>% 
-    group_by(id, activity, measurement) %>% 
+    group_by(id, activity, measurements) %>% 
     summarise(average = mean(value, na.rm = TRUE))
 
 # Saving the data sets
