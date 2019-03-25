@@ -80,11 +80,11 @@ The processing and tidying script is called [run_analysis.R](link). Previous to 
 
 ### Output
 
-1. Procesed data: wearableMeasurements.csv
-2. Tidy data:     wearableTidy.csv
+1. Procesed data: wearableMeasurements.txt
+2. Tidy data:     wearableTidy.txt
 
 
-## Description of the variables in the wearableTidy.csv file
+## Description of the variables in the wearableTidy.txt file
 
  - Dimensions of the dataset: 4 columns x 11880 rows
  - Aggregated measurement data per subject and per activity
