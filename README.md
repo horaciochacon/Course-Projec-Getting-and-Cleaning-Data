@@ -26,9 +26,9 @@ The assignment asks for the following tasks or steps:
 The repository contains the following files and folders:
 
 1. Data folder [[link]](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/tree/master/data): here all the raw data is stored.
-2. Output folde [link](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/tree/master/output)r: here all the output csv are generated.
-3. CodeBook.md [link](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/blob/master/CodeBook.md): Here is documented all the tidying process and variables.
-4. run_analysis.R [link](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/blob/master/run_analysis.R): The R script to tidy the data.
+2. Output folde [[link]](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/tree/master/output)r: here all the output csv are generated.
+3. CodeBook.md [[link]](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/blob/master/CodeBook.md): Here is documented all the tidying process and variables.
+4. run_analysis.R [[link]](https://github.com/horaciochacon/Course-Project-Getting-and-Cleaning-Data/blob/master/run_analysis.R): The R script to tidy the data.
 
 
 
